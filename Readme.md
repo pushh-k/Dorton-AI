@@ -8,25 +8,6 @@ A full-stack AI chat platform powered by multiple LLMs — with RAG, real-time i
 
 ---
 
-## 📸 Screenshots
-
-### Login / Register
-
-* Login
-* Register
-
-### Chat UI / Settings
-
-* AI Chat Interface
-* Settings
-
-### About / Mobile View
-
-* About
-* Mobile Responsive View
-
----
-
 ## ✨ What is Dorton AI?
 
 **Dorton AI** is a production-grade AI assistant platform that connects multiple state-of-the-art language models under one sleek interface.
